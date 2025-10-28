@@ -1,5 +1,6 @@
 # 🧬 Therapeutic Scales Inc.
-**A Delaware Corporation | Innovating at the Intersection of Health, AI, and Human Systems**
+
+**A Delaware health technology corporation innovating at the intersection of AI, behavioral science, and digital health systems to deliver intelligent, ethical health systems that connect human wellbeing, data, and technology.**
 
 ---
 
@@ -64,6 +65,20 @@ All IP is documented and timestamped in the [Governance/IP](./Governance/IP/) di
 
 ---
 
+## 🔬 Innovation Pipeline
+Therapeutic Scales Inc. maintains a continuous innovation cycle integrating research, prototyping, and clinical collaboration.  
+Each initiative builds upon the company’s proprietary frameworks in AI ethics, IoT design, and interoperable health data.
+
+| Phase | Focus Area | Expected Outcome |
+|-------|-------------|------------------|
+| **2025 Q4** | Sentinel Project (Prototype Refinement) | Complete alpha testing and prepare non-provisional patent submission. |
+| **2026 Q1** | EHR Beta Deployment | Launch FAIR-compliant, AI-assisted record system for home-health and telehealth providers. |
+| **2026 Q2** | Telehealth Integration Pilot | Integrate Sentinel data streams into live telehealth workflows for real-world behavioral analytics. |
+| **2026 Q3** | Ethical AI Compliance Engine | Deploy bias detection and governance module across internal systems. |
+| **2026 Q4+** | Cross-System Interoperability Testing | Establish partnerships to validate interoperability and secure data-sharing frameworks. |
+
+---
+
 ## 💼 Executive Leadership
 **Delpeche Beauge**  
 Chief Executive Officer  
@@ -95,20 +110,6 @@ To propose a partnership, please contact **admin@therapeuticscales.com**.
 | **2026 Q2+** | Strategic fundraising and global research partnerships. |
 
 ---
-## 🔬 Innovation Pipeline
-Therapeutic Scales Inc. maintains a continuous innovation cycle integrating research, prototyping, and clinical collaboration.  
-Each initiative builds upon the company’s proprietary frameworks in AI ethics, IoT design, and interoperable health data.
-
-| Phase | Focus Area | Expected Outcome |
-|-------|-------------|------------------|
-| **2025 Q4** | Sentinel Project (Prototype Refinement) | Complete alpha testing and prepare non-provisional patent submission. |
-| **2026 Q1** | EHR Beta Deployment | Launch FAIR-compliant, AI-assisted record system for home-health and telehealth providers. |
-| **2026 Q2** | Telehealth Integration Pilot | Integrate Sentinel data streams into live telehealth workflows for real-world behavioral analytics. |
-| **2026 Q3** | Ethical AI Compliance Engine | Deploy bias detection and governance module across internal systems. |
-| **2026 Q4+** | Cross-System Interoperability Testing | Establish partnerships to validate interoperability and secure data-sharing frameworks. |
-
----
-
 
 ## 🧭 Guiding Principle
 > “Technology must not only measure human behavior — it must learn from it ethically.”  
