@@ -1,6 +1,6 @@
 # 🧬 Therapeutic Scales Inc.
 
-**A Delaware health technology corporation innovating at the intersection of AI, behavioral science, and digital health systems to deliver intelligent, ethical health systems that connect human wellbeing, data, and technology.**
+**A Delaware health technology corporation innovating at the intersection of AI, behavioral science, and digital health systems to deliver intelligent, ethical health systems that connect human wellbeing with data and technology.**
 
 ---
 
